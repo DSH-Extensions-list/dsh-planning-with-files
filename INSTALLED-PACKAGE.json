@@ -1,0 +1,16 @@
+{
+  "package": "dsh-planning-with-files",
+  "version": "1.0.1",
+  "capturedOn": "2026-10-30",
+  "upstream": "OthmanAdi/planning-with-files",
+  "files": {
+    "README.md": "25f2ced09071e238e0cf4e95a3624f7f27931f82f6179ab8b7d40b5d32ab6a6b",
+    "cordis.patch.yml": "7309919eeef0ff4d2c8644451ab866ecad244cb578785aa33943d5f120515af8",
+    "dist/core.d.ts": "b6e592239312374a4c51527f185ca705b72c6015fa2f0755115d55016e89de67",
+    "dist/core.js": "a206ab99f63d9a26cd39a72e3fa5f8890e5608bc76dd83c0304db72be0031b12",
+    "dist/index.d.ts": "df03af0273183604d36babaa6729b6e0f9380a435c3ab27f3f1e5ad1795ccd7a",
+    "dist/index.js": "75d0cbbf67a196c0fc92891d7850cce18f3a56dd7242e9583d37a83668f51500",
+    "package.json": "3cf001baf7aeaaa9411e77ff98063826ffa28ba8fb66c05503b3ada4447670a1"
+  },
+  "readmeNote": "README.md has an added mirror notice; the hash records the original installed README."
+}
